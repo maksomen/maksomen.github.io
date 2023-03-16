@@ -1,0 +1,13 @@
+.bgn{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.bgn:hover {
+    color: blueviolet;
+    cursor: pointer;
+}
+.bgn:active {
+    font-size:23px ;
+}
